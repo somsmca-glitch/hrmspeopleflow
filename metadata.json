@@ -1,0 +1,6 @@
+{
+  "name": "PeopleFlow",
+  "description": "Multi-tenant B2B SaaS HR Management System (HRMS) for modern workforce lifecycle management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
